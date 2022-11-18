@@ -7,7 +7,7 @@ import random
 window = turtle.Screen()
 window.bgcolor("green")
 window.title("Space Invaders - CopyAssignment")
-window.bgpic("background.gif")
+window.bgpic('background.gif')
 
 # Register the shape
 turtle.register_shape("invader.gif")
